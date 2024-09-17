@@ -149,13 +149,3 @@ module.exports = router;
  *         email: user@example.com
  *         name: John Doe
  */
-
-
-
-
-
-
-
-
-
-
